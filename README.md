@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShidoADR&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="aboutMe">
-    :technologist: I am a software engineering student :man_student::smiley:<br>
+    :technologist: I am a software engineering student :man_student::smiley:<br><br>
     <div id="tools">
       :hammer_and_wrench: Languages and Tools :
     </div>
