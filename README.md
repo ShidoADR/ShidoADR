@@ -1,9 +1,9 @@
 <div align="center">
 
-| [![Banner](./banner.gif)](https://github.com/ShidoADR) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shidoadr&theme=radical) |
+| [![Banner](./banner.gif)](https://github.com/ShidoADR) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShidoADR&theme=radical) |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | GitHub Stats                                           | Top Languages                                                                                   |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shidoadr&show_icons=true&theme=radical)](https://github.com/shidoadr) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shidoadr&layout=compact&theme=radical)](https://github.com/shidoadr) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShidoADR&show_icons=true&theme=radical)](https://github.com/ShidoADR) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoADR&layout=compact&theme=radical)](https://github.com/ShidoADR) |
 
 </div>
 
