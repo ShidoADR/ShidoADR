@@ -3,7 +3,7 @@
 | [![Banner](./banner.gif)](https://github.com/ShidoADR) | ![GitHub Streak](https://streak-stats.demolab.com/?user=shidoadr&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true) |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | GitHub Stats                                           | Top Languages                                                                                   |
-| [![GitHub Stats](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api?username=ShidoADR&show_icons=tr&theme=outrun&background=0D1117&border=0D1117&count_private=true)](https://github.com/ShidoADR) | [![Top Langs](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api/top-langs/?username=ShidoADR&layout=compact&theme=outrun&background=0D1117&border=0D1117&count_private=true)](https://github.com/ShidoADR) |
+| [![GitHub Stats](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api?username=shidoadr&show_icons=true&count_private=true&theme=outrun&bg_color=151B23&border_color=151B23)](https://github.com/ShidoADR) | [![Top Langs](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api/top-langs/?username=shidoadr&theme=outrun&count_private=true&bg_color=151B23&border_color=151B23&hide_title=false&text_bold=true&langs_count=12&&hide=html)](https://github.com/ShidoADR) |
 
 </div>
 
