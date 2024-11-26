@@ -1,9 +1,9 @@
 <div align="center">
 
-| [![Banner](./banner.gif)](https://github.com/ShidoADR) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShidoADR&theme=radical) |
+| [![Banner](./banner.gif)](https://github.com/ShidoADR) | ![GitHub Streak](https://streak-stats.demolab.com/?user=shidoadr&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true) |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | GitHub Stats                                           | Top Languages                                                                                   |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShidoADR&show_icons=true&rank_icon=github&theme=radical)](https://github.com/ShidoADR) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoADR&layout=compact&theme=radical)](https://github.com/ShidoADR) |
+| [![GitHub Stats](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api?username=ShidoADR&show_icons=tr&theme=outrun&background=0D1117&border=0D1117&count_private=true)](https://github.com/ShidoADR) | [![Top Langs](https://github-readme-stats-git-master-shidos-projects-f4736dfa.vercel.app/api/top-langs/?username=ShidoADR&layout=compact&theme=outrun&background=0D1117&border=0D1117&count_private=true)](https://github.com/ShidoADR) |
 
 </div>
 
